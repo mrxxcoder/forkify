@@ -14,6 +14,7 @@ Take a look this project with the features down below.
 - Used MVC Architecture Design Pattern
 - Used Publisher-Subscriber Pattern
 - Used ES6 classes in creating the Views
+- Used Local Storage to save bookmarked recipes
 - Clean Code
 
 
